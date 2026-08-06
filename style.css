@@ -173,7 +173,7 @@ nav a:hover::after{
 
     height:100vh;
 
-    background:url(".banner1.jpg") center center/cover no-repeat;
+    background:url("banner1.jpg") center center/cover no-repeat;
 
     position:relative;
 
